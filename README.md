@@ -1,5 +1,5 @@
-# INTHANIN VPN Landing page
-- https://inthanincorp.github.io/inthanin-web/
-- https://inthanincorp.github.io/inthanin-web/setup
-- https://inthanincorp.github.io/inthanin-web/tips
-- https://inthanincorp.github.io/inthanin-web/policy
+# PLB VPN Landing page
+- https://plbcorp.github.io/plb-web/
+- https://plbcorp.github.io/plb-web/setup
+- https://plbcorp.github.io/plb-web/tips
+- https://plbcorp.github.io/plb-web/policy
